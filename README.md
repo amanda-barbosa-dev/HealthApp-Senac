@@ -11,7 +11,7 @@ ser desenvolvido como aplicativo mobile.
 
 ## Stack utilizada
 
-**Front-end:** Thymeleaf, HTML, CSS e Bootstrap
+**Front-end:** HTML, CSS e Java Script
 
 **Back-end:** Java, Spring Boot, Consumo de API com FeignClient
 
@@ -20,12 +20,11 @@ ser desenvolvido como aplicativo mobile.
 
 - CRUD para criação, listagem, deleção e edição de lembretes de medicamento. 
 - Consulta de bulas.
-- Envio de push notification no horário do lembrete com o link para consulta da bula. 
 
 
 
 ## Melhorias
-
+- Implementar envio de push notification no horário do lembrete com o link para consulta da bula. 
 - Implementar envio de mensagem via WhatsApp
 - Implementar funcionalidade de recusividade no envio dos lembretes com data de início, fim, e de acordo com o horário
 recomendado para uso do medicamento, por exemplo 8h/8h. 
