@@ -1,10 +1,10 @@
 
-# HEALTH APP
+# HEALTHAPP
 
 Projeto desenvolvido como forma de avalição da disciplina Projeto Integrador: Desenvolvimento de Sistemas orientado a
-Dispositivos Móveis e baseados na Web do curso de Tecnologia em Análise e Desenvolcimento de Sistemas do Senac Ead. 
+Dispositivos Móveis e baseados na Web do curso de Tecnologia em Análise e Desenvolvimento de Sistemas do SENAC EAD. 
 
-O projeto consta na apresentação de um aplicativo de envio de lembretes de medicamentos com consulta de bulas. 
+O nosso projeto consta na apresentação de um aplicativo destinado ao envio de lembretes de medicamentos com consulta de bulas. 
 Para isso foi desenvolvido um protótipo em aplicação web para testar a usabilidade do produto para posteriormente
 ser desenvolvido como aplicativo mobile.
 
@@ -24,11 +24,11 @@ ser desenvolvido como aplicativo mobile.
 
 
 ## Melhorias
-- Implementar envio de push notification no horário do lembrete com o link para consulta da bula. 
-- Implementar envio de mensagem via WhatsApp
+- Implementar envio de push notification no horário do lembrete com o link para consulta da bula; 
+- Implementar envio de mensagem via WhatsApp;
 - Implementar funcionalidade de recusividade no envio dos lembretes com data de início, fim, e de acordo com o horário
-recomendado para uso do medicamento, por exemplo 8h/8h. 
-- Implementar check-box para confirmar no aplicativo que o medicamento foi injerido para auxiliar no controle. 
+recomendado para uso do medicamento, por exemplo 8h/8h;
+- Implementar check-box para confirmar no aplicativo que o medicamento foi ingerido para auxiliar no controle. 
 
 
 ## Autores
